@@ -30,4 +30,4 @@ jobs:
           password: EmlPage2023
           protocol: ftp
           server-dir: ./pepitoflow.eml.com.co/
-          local-dir: ./dist
+          local-dir: ./dist/
